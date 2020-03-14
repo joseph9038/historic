@@ -1,0 +1,2533 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40659186274999, 37.797583811500004]
+      },
+      "properties": { "name": "City Lights Bookstore" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41021965499999, 37.792333038600006]
+      },
+      "properties": { "name": "Fairmont Hotel" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.404404264, 37.7692777845]
+      },
+      "properties": { "name": "Dunham, Carrigan & Hayden Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.48699206116665, 37.78700444683334]
+      },
+      "properties": { "name": "Alfred G. Hanson Residence" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42146629645454, 37.80015386436364]
+      },
+      "properties": { "name": "Filbert Street Cottages" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40329666699999, 37.7965783468]
+      },
+      "properties": { "name": "Bank Of Lucas, Turner, & Co." }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.407030994875, 37.80006379837499]
+      },
+      "properties": { "name": "Old Spaghetti Factory Cafe" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.422660462, 37.76137383533334]
+      },
+      "properties": { "name": "Mission Turn Hall (Women's Building)" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.38969065440001, 37.78964298619999]
+      },
+      "properties": { "name": "Hills Brothers Coffee Plant" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.39371590359998, 37.79591687966667]
+      },
+      "properties": { "name": "Ferry Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4081528988889, 37.800824840888886]
+      },
+      "properties": { "name": "Paper Doll Bar" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4314178064, 37.78034103555]
+      },
+      "properties": { "name": "Market Street Railway Substation" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41943511500001, 37.782363466599996]
+      },
+      "properties": { "name": "California Hall" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.401987603, 37.791431842099996]
+      },
+      "properties": { "name": "Mills Building & Tower" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.48698708816666, 37.78693599816667]
+      },
+      "properties": { "name": "Alfred G. Hanson Residence" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.38883429700002, 37.7410376598]
+      },
+      "properties": { "name": "Sam Jordan's Bar" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41239194541667, 37.80439584483333]
+      },
+      "properties": { "name": "Bauer & Schweitzer Malting Company" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40127595059998, 37.792271248999995]
+      },
+      "properties": { "name": "Royal Globe Insurance Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41402910725, 37.7870998715]
+      },
+      "properties": { "name": "Islam Temple (Alcazar Theater)" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4050401058, 37.8031063736]
+      },
+      "properties": { "name": "Julius' Castle" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4292502412, 37.7667923676]
+      },
+      "properties": { "name": "New Era Hall" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41485113401448, 37.77953272086957]
+      },
+      "properties": { "name": "Orpheum Theater Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42221851849999, 37.759740630500005]
+      },
+      "properties": { "name": "B'Nai David Synagogue" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4205812336, 37.77663348]
+      },
+      "properties": { "name": "High School Of Commerce" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41335305454548, 37.77167363981818]
+      },
+      "properties": { "name": "The Jackson Brewery Complex" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.45598360450002, 37.78919340466667]
+      },
+      "properties": { "name": "Koshland House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4026417238, 37.793468972599996]
+      },
+      "properties": { "name": "A. Borel & Co." }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40353927614285, 37.79438041585714]
+      },
+      "properties": { "name": "Original United States Mint And Subtreasury" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41579032966666, 37.75117098533333]
+      },
+      "properties": { "name": "Havens Mansion & Carriage House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.44025725733334, 37.798061280222214]
+      },
+      "properties": { "name": "North End Police Station" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.3890279455, 37.73137877083334]
+      },
+      "properties": { "name": "Sylvester House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43061405344444, 37.787693434444435]
+      },
+      "properties": { "name": "Stanyan House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43958417750001, 37.75957504383334]
+      },
+      "properties": { "name": "Alfred E. (Nobby) Clarke Mansion" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.3757234666, 37.7313185588]
+      },
+      "properties": { "name": "Hunters Point Springs And Albion Brewery" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43206782444446, 37.74996368888889]
+      },
+      "properties": { "name": "Axford House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43788937529999, 37.7810980594]
+      },
+      "properties": {
+        "name": "Holy Cross Parish Hall (Old St. Patrick's Church)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4309531028, 37.7779860142]
+      },
+      "properties": { "name": "Old Holy Virgin Russian Orthodox Cathedral" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40305601259999, 37.796100931]
+      },
+      "properties": { "name": "Genella Building (Belli Annex)" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4003806296, 37.799493600999995]
+      },
+      "properties": {
+        "name": "Gibb-Sanborn Warehouse (Trinidad Bean And Elevator Company)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41236982100001, 37.797501490200005]
+      },
+      "properties": { "name": "Our Lady Of Guadalupe Church" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4243202086, 37.7904644236]
+      },
+      "properties": { "name": "Edward Coleman House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42007075320001, 37.785131434]
+      },
+      "properties": { "name": "Don Lee Automobile Showroom" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.39948498460001, 37.793525229800004]
+      },
+      "properties": { "name": "Buich Bldg/Tadich Grill" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42441089020001, 37.7533487118]
+      },
+      "properties": { "name": "Oakley Residence & Flats" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4829435536, 37.7646120184]
+      },
+      "properties": { "name": "Refugee Shack" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40323961762499, 37.788300743125006]
+      },
+      "properties": { "name": "The Chronicle Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40341173931581, 37.78594909694737]
+      },
+      "properties": { "name": "Jessie Street Substation" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40252543257142, 37.793176145857146]
+      },
+      "properties": { "name": "The Kohl Bldg (Alvinza Hayward Bldg)" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4101627518, 37.79133912940001]
+      },
+      "properties": { "name": "Mark Hopkins Hotel" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.407647103, 37.799029771363635]
+      },
+      "properties": { "name": "Saint Francis Of Assisi Church" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43469615119997, 37.7634713796]
+      },
+      "properties": { "name": "The Jose Theater/Names Project Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4039087362, 37.795735996]
+      },
+      "properties": { "name": "Columbo Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40966718659999, 37.7878824572]
+      },
+      "properties": { "name": "First Congregational Church" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.39277965480001, 37.7921046684]
+      },
+      "properties": { "name": "Rincon Annex" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4341398245, 37.7652434825]
+      },
+      "properties": { "name": "Benedict-Gieling House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.39313320130002, 37.795260285000005]
+      },
+      "properties": { "name": "Ferry Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4352236019091, 37.792797357]
+      },
+      "properties": { "name": "Calvary Presbyterian Church (Sanctuary)" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4120136196, 37.79499719146668]
+      },
+      "properties": { "name": "Cable Car Barn And Power House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4294864345, 37.76855972833334]
+      },
+      "properties": { "name": "Saint Francis Lutheran Church" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40649528883336, 37.79185250416667]
+      },
+      "properties": { "name": "Met Life -Pacific Coast Head Office" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.44279962, 37.773663431799996]
+      },
+      "properties": { "name": "Clunie House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40887463529998, 37.783828373199995]
+      },
+      "properties": { "name": "Dressler Or Garfield Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4346580378, 37.796474529399994]
+      },
+      "properties": { "name": "Sherman House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40510069116665, 37.79090792583333]
+      },
+      "properties": { "name": "Fire Station 2" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42665703560002, 37.789470166399994]
+      },
+      "properties": { "name": "Tobin House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.46713746892856, 37.77067582969643]
+      },
+      "properties": { "name": "The Music Concourse" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.46571383142857, 37.76247290757143]
+      },
+      "properties": { "name": "Doelger Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.452748992, 37.790487249]
+      },
+      "properties": { "name": "Roos House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40098635888889, 37.788300564888885]
+      },
+      "properties": { "name": "The Sharon Bldg" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.438482743, 37.721422769707054]
+      },
+      "properties": { "name": "Alemany Emergency Hospital And Health Center" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40179063066667, 37.771047844]
+      },
+      "properties": { "name": "Baker & Hamilton Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.429373332125, 37.7934606985]
+      },
+      "properties": {
+        "name": "California Historical Society (Whittier Mansion)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.38846157559999, 37.735697796]
+      },
+      "properties": { "name": "Quinn House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41286634960002, 37.781846549200004]
+      },
+      "properties": { "name": "St Boniface Church" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4270555184, 37.790040085]
+      },
+      "properties": { "name": "Atherton House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42709499177778, 37.765925391888885]
+      },
+      "properties": { "name": "Tanforan Cottage" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40315511383334, 37.79622411333333]
+      },
+      "properties": { "name": "Golden Era Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41322866779998, 37.7714613518]
+      },
+      "properties": { "name": "The Jackson Brewery Complex" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42691482528572, 37.76394228342857]
+      },
+      "properties": { "name": "Mission Dolores" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.419478826, 37.756051296571435]
+      },
+      "properties": { "name": "The New Mission Theater" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43187624656844, 37.80304867859999]
+      },
+      "properties": { "name": "Marina Branch Library" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4309942454, 37.7781893844]
+      },
+      "properties": { "name": "Old Holy Virgin Russian Orthodox Cathedral" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4090380956111, 37.79364205461111]
+      },
+      "properties": { "name": "Clay Street Center" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40274148399999, 37.7963463874]
+      },
+      "properties": { "name": "Hotaling Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4216781008, 37.78248948]
+      },
+      "properties": { "name": "Stadtmuller House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40333926175, 37.7879177825]
+      },
+      "properties": { "name": "Lotta's Fountain" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42485356211111, 37.79046467188889]
+      },
+      "properties": { "name": "Wormser-Coleman House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40308025285715, 37.78872464742858]
+      },
+      "properties": { "name": "The Mechanics Institute" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.46803753671429, 37.781817343]
+      },
+      "properties": { "name": "Richmond Branch Library" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40345308440001, 37.7935292844]
+      },
+      "properties": { "name": "Jack's Restaurant Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43589948471428, 37.792851536571426]
+      },
+      "properties": { "name": "Leale House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41389857771428, 37.784141526714286]
+      },
+      "properties": { "name": "Cadillac Hotel" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4690675200342, 37.727137026641024]
+      },
+      "properties": { "name": "The Joseph Leonard/Cecil F. Poole House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.45810883754545, 37.76793019087878]
+      },
+      "properties": { "name": "Sharon Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4030650898, 37.7966071696]
+      },
+      "properties": { "name": "Solari Building (Old French Consulate)" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.3940125188, 37.787371577799995]
+      },
+      "properties": { "name": "F.V. Wilbert Tool Manufacturing Shop" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4030371602, 37.7963538684]
+      },
+      "properties": { "name": "Hotaling Annex West" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4055578258, 37.789475769199996]
+      },
+      "properties": { "name": "Hammersmith Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4641140222541, 37.726134514475675]
+      },
+      "properties": { "name": "El Rey Theater" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4182451795, 37.765434048125]
+      },
+      "properties": { "name": "San Francisco Labor Temple" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.44168654142857, 37.77426198128571]
+      },
+      "properties": { "name": "Southern Pacific Co. Hospital Complex" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4351771802, 37.752560833000004]
+      },
+      "properties": { "name": "Lewis House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40337361657896, 37.791359830368435]
+      },
+      "properties": { "name": "S. F. Mining Exchange" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4390213506, 37.7921423528]
+      },
+      "properties": { "name": "Gibbs Residence And Caretaker's Cottage" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40665926883334, 37.79064531033334]
+      },
+      "properties": { "name": "Notre Dame Des Victoires Church & Rector" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.5029629742162, 37.73546240140541]
+      },
+      "properties": { "name": "Doggie Diner Sign" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43635044979999, 37.777298003999995]
+      },
+      "properties": { "name": "Westerfeld House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4130779922857, 37.77156724571428]
+      },
+      "properties": { "name": "The Jackson Brewery Complex" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4000904878, 37.7880244578]
+      },
+      "properties": { "name": "Bourdette Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.440929639, 37.79222893366667]
+      },
+      "properties": { "name": "Ellinwood House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43804794766667, 37.77270560316666]
+      },
+      "properties": { "name": "Abner Phelps House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41469493280002, 37.774639709]
+      },
+      "properties": { "name": "Lick Baths" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.39074449033332, 37.77947933466667]
+      },
+      "properties": { "name": "Garcia And Maggini Warehouse" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43306368111111, 37.797027748888894]
+      },
+      "properties": { "name": "Metro Theater" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41425797063636, 37.773471702]
+      },
+      "properties": { "name": "St. Joseph's Church" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4230514378, 37.8057653324]
+      },
+      "properties": { "name": "Ghirardelli Square" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41668071983334, 37.798191708]
+      },
+      "properties": { "name": "Feusier Octagon House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42312452, 37.75782535485714]
+      },
+      "properties": { "name": "Mcmullen Residence" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40362336025001, 37.796045531000004]
+      },
+      "properties": {
+        "name": "Transamerica Building (Old Fugazi Bank Building)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40258854911109, 37.79354799055555]
+      },
+      "properties": { "name": "Italian American Bank" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40087203579999, 37.794245111]
+      },
+      "properties": { "name": "Federal Reserve Bank Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.423507403, 37.784139858399996]
+      },
+      "properties": { "name": "Saint Mark's Evangelical Lutheran Church" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4025764256, 37.796701346199995]
+      },
+      "properties": { "name": "Yeon Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4383672632, 37.7732631696]
+      },
+      "properties": {
+        "name": "Old Firehouse, Engine Company No. 2 And Truck No. 6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.39814406, 37.779272030600005]
+      },
+      "properties": { "name": "Hotel Utah" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43495182379999, 37.7622455928]
+      },
+      "properties": { "name": "Twin Peaks Tavern" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.449167293958, 37.80289535487424]
+      },
+      "properties": { "name": "Palace Of Fine Arts" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.44062940799999, 37.731803451400005]
+      },
+      "properties": { "name": "Sunnyside Conservatory" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43739116460002, 37.7742252572]
+      },
+      "properties": { "name": "Theodore Green Apothecary" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.47713938624999, 37.75698290562501]
+      },
+      "properties": { "name": "Shriners' Hospital For Crippled Children" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42579638014286, 37.77141804428572]
+      },
+      "properties": { "name": "Woods Hall Annex" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.432876353875, 37.794087057875]
+      },
+      "properties": { "name": "Bourn Mansion" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41695417033333, 37.79875998222222]
+      },
+      "properties": { "name": "Engine Company Number 31 Fire House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42449981916667, 37.79040332433333]
+      },
+      "properties": { "name": "Lilienthal-Orville Pratt House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.47646164266666, 37.762795846500005]
+      },
+      "properties": { "name": "Sunset Branch Library" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42052461385715, 37.78508317428572]
+      },
+      "properties": { "name": "Don Lee Automobile Showroom" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42215060886669, 37.78531393746667]
+      },
+      "properties": { "name": "Goodman Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4247839956, 37.7675362908]
+      },
+      "properties": { "name": "Sheetmetal Worker's Union Hall" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.46661822862161, 37.77125380794595]
+      },
+      "properties": { "name": "Francis Scott Key Monument" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4270862928, 37.7657792498]
+      },
+      "properties": { "name": "Tanforan Cottage" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43821872849999, 37.772683715166664]
+      },
+      "properties": { "name": "Mish House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42644004475001, 37.79668942075]
+      },
+      "properties": { "name": "Burr House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43457768459999, 37.759765847]
+      },
+      "properties": { "name": "Castro Camera" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4244137075, 37.79064270883333]
+      },
+      "properties": { "name": "Brandenstein (Bransten) House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.3927168008, 37.7933395128]
+      },
+      "properties": { "name": "Audiffred Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41145467300001, 37.792176617]
+      },
+      "properties": { "name": "Old Flood Mansion Pacific Union Club" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42985938485715, 37.79071195528571]
+      },
+      "properties": { "name": "Richard E. Queen House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.45907121753845, 37.74785085456732]
+      },
+      "properties": { "name": "Forest Hill Muni Station" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42218439046152, 37.785242022846155]
+      },
+      "properties": { "name": "Goodman Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41349994777778, 37.79778426611111]
+      },
+      "properties": { "name": "House Of The Flag" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42486173139999, 37.7883471362]
+      },
+      "properties": { "name": "Trinity Church" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4407744920909, 37.73192752109091]
+      },
+      "properties": { "name": "Sunnyside Conservatory" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.422395136, 37.79516129860001]
+      },
+      "properties": { "name": "Engine Co. #8, Truck Co. #4" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.45839131100001, 37.78221920077778]
+      },
+      "properties": { "name": "Theodore Roosevelt Middle School" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42722041716667, 37.77180293066667]
+      },
+      "properties": { "name": "Nightingale House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40184061740001, 37.8015491794]
+      },
+      "properties": { "name": "Independent Wood Company Building (Cargo West)" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42718501766664, 37.76423381266667]
+      },
+      "properties": { "name": "Mission Dolores" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40747393286043, 37.78476398534884]
+      },
+      "properties": { "name": "James Flood Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40360256, 37.7516684682]
+      },
+      "properties": { "name": "#37 Engine, #9 Truck Firehouse" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4274492018, 37.797779638799994]
+      },
+      "properties": { "name": "Colonial Dames Octagon House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.45702609707608, 37.7803572532826]
+      },
+      "properties": { "name": "See 1084/2:Oddfellows Columbarium" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40311274619998, 37.7956952468]
+      },
+      "properties": { "name": "Columbia Savings Bank" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42557684799999, 37.77397326366667]
+      },
+      "properties": { "name": "Dietle Residence" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4595606351, 37.7845940885]
+      },
+      "properties": { "name": "Campfire Girls Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42497500644446, 37.793275835555555]
+      },
+      "properties": { "name": "Haas-Lilienthal House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4210327246, 37.7788709292]
+      },
+      "properties": {
+        "name": "War Memorial (Opera House And Veterans Building)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42528688066666, 37.773005311333335]
+      },
+      "properties": { "name": "Mcmorry-Lagan Bldg" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42990649725, 37.788737248]
+      },
+      "properties": { "name": "Madame C J Walker House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41743540562501, 37.8037579075]
+      },
+      "properties": { "name": "San Francisco Art Institute" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40521253685714, 37.78702932471429]
+      },
+      "properties": { "name": "Savings Union Branch Of Sec.Pac.Natl Bnk" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.45476549171428, 37.77187865957142]
+      },
+      "properties": { "name": "Mclaren Lodge" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40149674785714, 37.791395095285715]
+      },
+      "properties": { "name": "Mills Building & Tower" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.45690867580001, 37.7237574108]
+      },
+      "properties": {
+        "name": "Ingleside Presbyterian Church And The Great Cloud Of Witnesses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.46516015791666, 37.74669592641666]
+      },
+      "properties": { "name": "The Cowell House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40891196316666, 37.79373381641667]
+      },
+      "properties": { "name": "Clay Street Center" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40235883071429, 37.802828762]
+      },
+      "properties": { "name": "Italian Swiss Colony Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4020590012, 37.796732382799995]
+      },
+      "properties": { "name": "Grogan-Atherton-Lent Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.46560141157143, 37.76245780228572]
+      },
+      "properties": { "name": "Doelger Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40504733814285, 37.80305342371428]
+      },
+      "properties": { "name": "Julius' Castle" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40012664014286, 37.79080206242857]
+      },
+      "properties": { "name": "Crown Zellerbach Bldg" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40719997580001, 37.782659545399994]
+      },
+      "properties": { "name": "The Old Mint" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.438946003, 37.7876035812]
+      },
+      "properties": { "name": "Ortman-Shumate House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4223405538, 37.7748894542]
+      },
+      "properties": { "name": "R.(Rube) L. Goldberg Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40243836216666, 37.79628351291667]
+      },
+      "properties": { "name": "Hotaling Annex East" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.400575116125, 37.75828205375]
+      },
+      "properties": { "name": "Potrero Hill Neighborhood House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41559218740001, 37.7493890502]
+      },
+      "properties": { "name": "Howard /26Th Street Cottages" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40256154100001, 37.796151416125]
+      },
+      "properties": { "name": "Hotaling Stables Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41410867479999, 37.7924988742]
+      },
+      "properties": { "name": "Chambord Apartments" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.39568988559999, 37.787683453199996]
+      },
+      "properties": { "name": "Phillips Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41013021200001, 37.80076855516666]
+      },
+      "properties": { "name": "Survey Marker" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40710385166669, 37.78515305616667]
+      },
+      "properties": { "name": "Samuels Clock" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4206610251111, 37.76777351322223]
+      },
+      "properties": { "name": "State Armory And Arsenal" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.39001995774608, 37.78251963125396]
+      },
+      "properties": { "name": "Oriental Warehouse" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43454540636363, 37.77779490027273]
+      },
+      "properties": { "name": "Third Baptist Church Complex" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41442202718181, 37.797096928181816]
+      },
+      "properties": { "name": "Atkinson House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40464194685714, 37.78711022057143]
+      },
+      "properties": { "name": "Wells Fargo Union Trust Branch" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42579638014286, 37.77141804428572]
+      },
+      "properties": { "name": "Richardson Hall" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41288273371428, 37.78714925585715]
+      },
+      "properties": { "name": "Gaylord Hotel" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41578391116667, 37.75110389283333]
+      },
+      "properties": { "name": "Havens Mansion And Carriage House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41849892036363, 37.75913974290909]
+      },
+      "properties": { "name": "El Capitan Theater & Hotel" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40243836216666, 37.79628351291667]
+      },
+      "properties": { "name": "Ghirardelli Annex - Jackson Street" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.45972668625, 37.786596326625]
+      },
+      "properties": { "name": "St. John's Presbyterian Church" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40148221579997, 37.7932668376]
+      },
+      "properties": { "name": "Bank Of California" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41926905800007, 37.77922473776469]
+      },
+      "properties": { "name": "San Francisco City Hall" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42397539590907, 37.795270384636375]
+      },
+      "properties": { "name": "St. Brigid's Church" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41348564239999, 37.77166633739999]
+      },
+      "properties": { "name": "The Jackson Brewery Complex" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42746234514817, 37.76241458022223]
+      },
+      "properties": { "name": "Mission High School" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.46015444997673, 37.77259140232557]
+      },
+      "properties": { "name": "Conservatory" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4117109818, 37.7588727632]
+      },
+      "properties": { "name": "Schoenstein Organ" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43906778707694, 37.79518404284615]
+      },
+      "properties": { "name": "Casebolt House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41249181733333, 37.78136656316667]
+      },
+      "properties": { "name": "Hibernia Bank" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.5085618156316, 37.76507756013157]
+      },
+      "properties": { "name": "The Murphy Windmill And Millwright's Cottage" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41019147124999, 37.795272547]
+      },
+      "properties": { "name": "Chinatown Branch Library" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42360963820002, 37.7827684684]
+      },
+      "properties": { "name": "Rothschild House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4305038695, 37.76669203433333]
+      },
+      "properties": { "name": "Swedish American Hall" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.45709723653846, 37.78069171330769]
+      },
+      "properties": { "name": "San Francisco Memorial Columbarium" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43908107283333, 37.792397767000004]
+      },
+      "properties": { "name": "Gibbs Residence And Caretakers Cottage" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43458753584211, 37.76202362826316]
+      },
+      "properties": { "name": "Castro Theater" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42050515739997, 37.77084816128001]
+      },
+      "properties": { "name": "Juvenile Court And Detention Center" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41979908780002, 37.7519572306]
+      },
+      "properties": { "name": "Carnegie Mission Branch Library" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40594090312501, 37.79016092937499]
+      },
+      "properties": { "name": "Home Telephone Company" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42557889091665, 37.76362172741667]
+      },
+      "properties": { "name": "Notre Dame School" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.44728186580001, 37.770095113]
+      },
+      "properties": { "name": "Richard Doolan/Norman Larson Residence" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42176070917645, 37.79837338170588]
+      },
+      "properties": { "name": "Alhambra Theater" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40366372633333, 37.785513838222215]
+      },
+      "properties": { "name": "Saint Patrick's Church" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4362310462, 37.7626759996]
+      },
+      "properties": { "name": "The Mccormick House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.38831501908334, 37.79016332133333]
+      },
+      "properties": { "name": "Fire Boat House-Pier 22 1/2" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.436677372, 37.771827935333334]
+      },
+      "properties": { "name": "Charles L. Hinkel House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4336513772, 37.7776170584]
+      },
+      "properties": { "name": "The Archbishop's Mansion" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42304767066668, 37.74925642316666]
+      },
+      "properties": { "name": "Frank G. Edwards House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40191835559999, 37.7878203172]
+      },
+      "properties": { "name": "Palace Hotel And Garden Court Room" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.44224102742221, 37.72004311479114]
+      },
+      "properties": { "name": "Balboa High School" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.453309601, 37.766954432]
+      },
+      "properties": { "name": "Park Emergency Hospital" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4165683594, 37.7515949234]
+      },
+      "properties": { "name": "Frank M. Stone House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40243836216666, 37.79628351291667]
+      },
+      "properties": { "name": "Ghirardelli Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4274853608, 37.7979586116]
+      },
+      "properties": { "name": "Colonial Dames Octagon House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4134971534, 37.7719046112]
+      },
+      "properties": { "name": "The Jackson Brewery Complex" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.3938900548, 37.778228428999995]
+      },
+      "properties": { "name": "New Pullman Hotel" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42812754069999, 37.787411476100004]
+      },
+      "properties": { "name": "Bush Street Temple (Soto Mission)" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43114386516669, 37.78955158183333]
+      },
+      "properties": { "name": "William Vale House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.39846074916666, 37.7561936075]
+      },
+      "properties": { "name": "The Kerrigan House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40309912623076, 37.790283048461546]
+      },
+      "properties": { "name": "Hallidie Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42579638014286, 37.77141804428572]
+      },
+      "properties": { "name": "Woods Hall" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.430100595125, 37.790694211375]
+      },
+      "properties": { "name": "Chambers Mansion" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4016222005, 37.789519641375]
+      },
+      "properties": { "name": "The Hobart Bldg" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40834581542856, 37.79333361357143]
+      },
+      "properties": { "name": "Donaldina Cameron House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43200282779999, 37.7499609136]
+      },
+      "properties": { "name": "Axford House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4135089202, 37.7919153074]
+      },
+      "properties": { "name": "Cathedral House-Demolished 1994" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40577194631663, 37.802336479627755]
+      },
+      "properties": { "name": "Coit Tower" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.413335559375, 37.781623774749995]
+      },
+      "properties": { "name": "St Boniface Church" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42318528199999, 37.7577146588]
+      },
+      "properties": { "name": "Marsden Kershaw House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41323911980001, 37.7716987812]
+      },
+      "properties": { "name": "The Jackson Brewery Complex" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42061452748, 37.77086200984]
+      },
+      "properties": { "name": "Juvenile Court And Detention Center" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4030650898, 37.7966071696]
+      },
+      "properties": { "name": "Solari Building (Larco's Building)" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43055012111114, 37.78704169866666]
+      },
+      "properties": { "name": "Kinmon Gakuen" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41454076424999, 37.725664842125006]
+      },
+      "properties": { "name": "University Mound Old Ladies' Home" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4188849484, 37.764883854800004]
+      },
+      "properties": { "name": "Brown's Opera House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43509001885715, 37.75011715714286]
+      },
+      "properties": { "name": "Noe Valley Branch Library" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4005168386, 37.799873758000004]
+      },
+      "properties": { "name": "Gibb-Sanborn Warehouse (Pelican Paper)" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.39018249979999, 37.7349143218]
+      },
+      "properties": { "name": "So. San Francisco Opera House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43557704779998, 37.785468161400004]
+      },
+      "properties": { "name": "Golden Gate Commandery Of The Knights Te" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.50940179056754, 37.77044676845945]
+      },
+      "properties": { "name": "Dutch Windmill" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42405267320001, 37.771798971600006]
+      },
+      "properties": { "name": "Carmel Fallon Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4028870652, 37.796629326200005]
+      },
+      "properties": { "name": "Moulinie Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41382466549999, 37.75358985016666]
+      },
+      "properties": { "name": "Gaughran House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42358462311253, 37.78495359309999]
+      },
+      "properties": { "name": "First Unitarian Church" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4459689108889, 37.71979151733333]
+      },
+      "properties": { "name": "S.F. & San Mateo Railroad Co. Office Bld" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4416432587143, 37.77404867442857]
+      },
+      "properties": { "name": "Southern Pacific Co. Hospital Complex" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41651391588887, 37.762352273]
+      },
+      "properties": { "name": "Charles School" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42389526500001, 37.7827320862]
+      },
+      "properties": { "name": "Family Service Agency" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.39601686159999, 37.7206084332]
+      },
+      "properties": { "name": "Arthur H. Coleman Medical Center" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41016194685713, 37.78677405085715]
+      },
+      "properties": { "name": "Geary Theater" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41163188633332, 37.79012964088889]
+      },
+      "properties": { "name": "Dennis T. Sullivan Memorial Fire Chief's Home" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40563600763636, 37.79287862463636]
+      },
+      "properties": { "name": "Old Saint Mary's Church" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.44352835566667, 37.79069796566667]
+      },
+      "properties": { "name": "Old Firehouse, Engine Company No. 23" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43317260699999, 37.80371858385714]
+      },
+      "properties": { "name": "Merryvale Antiques" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41773690100001, 37.75368710560001]
+      },
+      "properties": { "name": "Trinity Presbyterian Church" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43191635637501, 37.789787184000005]
+      },
+      "properties": { "name": "Health Sciences Library" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4130324231, 37.7816692182]
+      },
+      "properties": { "name": "St Boniface Church" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40565656799998, 37.78643625775]
+      },
+      "properties": { "name": "Phelan Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42731339622222, 37.79297566133333]
+      },
+      "properties": { "name": "Spreckels Residence" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4346780875625, 37.7967552383125]
+      },
+      "properties": { "name": "Sherman House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40662472277778, 37.79077112355555]
+      },
+      "properties": { "name": "Notre Dame Des Victoires Church & Rector" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40243836216666, 37.79628351291667]
+      },
+      "properties": { "name": "Medico-Dental Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.44563202641667, 37.785896667]
+      },
+      "properties": { "name": "Hoadley Residence" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.403154549, 37.804460467]
+      },
+      "properties": { "name": "Beltline Railroad Roundhouse Complex" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.3946942044, 37.7818774192]
+      },
+      "properties": {
+        "name": "Piledrivers, Bridge, And Structural Ironworkers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40140220981817, 37.78870058236364]
+      },
+      "properties": { "name": "Hoffman's Grill" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.51010794649999, 37.7692952401]
+      },
+      "properties": { "name": "Beach Chalet" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40035312566665, 37.7905516505]
+      },
+      "properties": { "name": "Crown Zellerbach Bldg" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.45906405155557, 37.768766514]
+      },
+      "properties": { "name": "Lawn Bowling Clubhouse And Greens" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43170542949998, 37.780372319166666]
+      },
+      "properties": { "name": "Market Street Railway Substation" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.438855614, 37.79216340640001]
+      },
+      "properties": { "name": "Gibbs Residence And Caretaker's Cottage" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41981688673529, 37.80707750379412]
+      },
+      "properties": { "name": "Haslett Warehouse" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40078737180002, 37.7900747296]
+      },
+      "properties": { "name": "Flatiron Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4217722286, 37.783958623400004]
+      },
+      "properties": { "name": "Earle C. Anthony Packard Showroom" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.37557552700001, 37.731492581999994]
+      },
+      "properties": { "name": "Hunters Point Springs And Albion Brewery" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.402967913375, 37.795811168875005]
+      },
+      "properties": { "name": "Columbia Savings Bank" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40939247442859, 37.75039436585714]
+      },
+      "properties": { "name": "Sunshine School" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4156853884, 37.749526618999994]
+      },
+      "properties": { "name": "Howard /26Th Street Cottages" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.424686363, 37.794868684]
+      },
+      "properties": { "name": "Talbot-Dutton House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4784908696, 37.8192778042]
+      },
+      "properties": { "name": "Golden Gate Bridge" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4447722528889, 37.78891209444445]
+      },
+      "properties": { "name": "Presidio Branch Library" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.44516911828204, 37.759159970461546]
+      },
+      "properties": { "name": "Miller-Joost House" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40305601259999, 37.796100931]
+      },
+      "properties": { "name": "Belli Building (Langerman's Building)" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43289486159999, 37.7854602528]
+      },
+      "properties": { "name": "Marcus Books And Jimbo's Bop City" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.47684329750001, 37.75187162975]
+      },
+      "properties": { "name": "S.F Conservatory Of Music" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40503191100001, 37.796520707250004]
+      },
+      "properties": { "name": "Columbus Tower (Sentinel Building)" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.39021345860002, 37.776775397200005]
+      },
+      "properties": { "name": "Francis \"Lefty\" O'Doul/Third Street Bridge" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42537731760001, 37.7729805602]
+      },
+      "properties": { "name": "Mcmorry-Lagan Bldg" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40587707166667, 37.78826708583333]
+      },
+      "properties": { "name": "V. C. Morris Building" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.46703100919999, 37.7630645844]
+      },
+      "properties": { "name": "Old Fire House, Engine 22" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40131643240002, 37.791352648200004]
+      },
+      "properties": { "name": "Mills Building & Tower" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42953175100001, 37.793788162199995]
+      },
+      "properties": { "name": "Schubert Hall" }
+    }
+  ]
+}

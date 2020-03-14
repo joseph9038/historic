@@ -1,0 +1,21 @@
+version: '3.3'
+services:
+  web:
+    container_name: app
+    build: .
+    ports:
+    - '9090:9090'
+    volumes:
+    - ./templates:/app/templates
+    - ./static/node_modules:/app/static/node_modules
+  postgres:
+    container_name: postgresdb
+    image: 'postgis/postgis:12-2.5'
+    ports:
+    - '5432:5432'
+    environment:
+    - POSTGRES_PASSWORD=superstrongpassword
+    - POSTGRES_USER=sambrannan
+    - POSTGRES_DB=historic
+    volumes:
+    - ./volumes:/var/lib/postgresql
