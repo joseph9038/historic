@@ -1,0 +1,25 @@
+<!doctype HTML>
+<html>
+  <script src="{{ url_for('static', filename='node_modules/aframe/dist/aframe.js') }}"></script>
+  <script src="{{ url_for('static', filename='node_modules/ar.js/aframe/build/aframe-ar.js') }}"></script>
+<!-- <script src="https://aframe.io/releases/1.0.0/aframe.min.js"></script> -->
+<!-- <script src="https://raw.githack.com/jeromeetienne/AR.js/2.2.2/aframe/build/aframe-ar.js"></script> -->
+  <body style="margin: 0px; overflow: hidden;">
+    <!-- <a-scene embedded arjs>
+      <a-marker preset="hiro">
+          <a-box position="0 0.5 0" material="color: yellow;"></a-box>
+      </a-marker>
+      <a-entity camera></a-entity>
+    </a-scene> -->
+    
+<!-- add artoolkit into your scene -->
+  <a-scene vr-mode-ui="enabled: false" embedded artoolkit>
+    <a-camera gps-camera rotation-reader></a-camera>
+    <a-image gps-entity-place="latitude: 37.7767382; longitude: -122.3942265" name="Safeway in the Beacon" src="/static/images/map-marker.png" scale="" material="" geometry=""></a-image>
+    <a-image gps-entity-place="latitude: 37.77167360000001; longitude: -122.3917568" name="Jim's Apartment" src="/static/images/map-marker.png" scale="" material="" geometry=""></a-image>
+  </a-scene>
+
+  <script src="{{ url_for('static', filename='node_modules/jquery/dist/jquery.js') }}" type="text/javascript"></script>
+  <script src="{{ url_for('static', filename='js/arlandmarks.js') }}" type="text/javascript"></script>
+  </body>
+</html>

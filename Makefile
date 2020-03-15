@@ -1,8 +1,5 @@
 PORT=9090
 
-start:
-	@python app.py
-
 debug:
 	@export FLASK_APP=app.py; export FLASK_ENV=development; flask run --port $(PORT)
 
@@ -15,8 +12,17 @@ freeze:
 install:
 	@pip install -r requirements.txt
 
-create:
+build:
+	@docker-compose up --build -d
+
+start:
 	@docker-compose up -d
+
+restart:
+	@docker-compose restart
+
+stop:
+	@docker-compose stop
 
 shell:
 	@ipython
@@ -27,7 +33,7 @@ dbshell:
 db:
 	@docker exec -it postgresdb psql -U sambrannan -d historic
 
-dblogs:
+logs:
 	@docker-compose logs -f
 
 clean:

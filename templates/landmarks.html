@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+<table>
+    <thead>
+        <tr>
+            <th>Landmark</th>
+            <th>ID</th>
+            <th>Coordinates</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for landmark in landmarks %}
+        <tr>
+            <td>{{ landmark.name }}</td>
+            <td>{{ landmark.id }}</td>
+            <td>{{ landmark.latitude }}, {{ landmark.longitude }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

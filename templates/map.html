@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div id="map" style="height: 600px;"></div>
+
+<script>
+    var map;
+    var markers = [];
+    var infoWindows = [];
+    function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+            center: {lat: 37.7790262, lng: -122.4199061},
+            zoom: 13
+        });
+        function clearMarkers(){
+            markers.forEach(marker => {
+                marker.setMap(null);
+            });
+            markers = [];
+        }
+        map.addListener('click', function(e){
+            clearMarkers()
+            var latitude = e.latLng.lat();
+            var longitude = e.latLng.lng();
+            fetch(`/api/landmarks?latitude=${latitude}&longitude=${longitude}`)
+                .then(response => {
+                    return response.json();
+                })
+                .then(data => {
+                    data.features.forEach((feature) => {
+                        var coords = feature.geometry.coordinates;
+                        var latLng = new google.maps.LatLng(coords[1],coords[0]);
+                        var marker = new google.maps.Marker({
+                            title: feature.properties.name,
+                            position: latLng,
+                            map: map
+                        });
+                        marker.addListener('click', function() {
+                            infoWindows.forEach(infoWindow => {
+                                infoWindow.setMap(null);
+                            });
+                            infoWindows = [];
+
+                            var infoWindow = new google.maps.InfoWindow({
+                                content: feature.properties.name
+                            });
+                            infoWindows.push(infoWindow);
+                            infoWindow.open(map, marker);
+                        });
+                        markers.push(marker);
+                    });
+                });
+        });
+    }
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key={{ GOOGLE_MAPS_API_KEY }}&callback=initMap"
+async defer></script>
+
+{% endblock %}

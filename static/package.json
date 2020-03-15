@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "foundation-sites": "^6.6.1"
+    "aframe": "^1.0.4",
+    "ar.js": "^2.2.2",
+    "foundation-sites": "^6.6.1",
+    "jquery": "^3.4.1"
   }
 }

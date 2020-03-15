@@ -25,7 +25,7 @@ def run():
         latitude = feature['geometry']['coordinates'][1]
         landmark = Landmark(name=name, coordinates='POINT({} {})'.format(longitude, latitude))
         db.session.add(landmark)
-        
+
     db.session.commit()
 
 

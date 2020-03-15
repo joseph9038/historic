@@ -7,10 +7,12 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='node_modules/foundation-sites/dist/css/foundation.css') }}">
 </head>
 <body>
-    <div class="row">
-        <div>
+    <div class="grid-x grid-margin-x grid-padding-x">
+        <div class="cell medium-6 large-2"></div>
+        <div class="cell medium-6 large-8">
             {% block content %}{% endblock %}
         </div>
+        <div class="cell medium-6 large-2"></div>
     </div>
 </body>
 </html>
